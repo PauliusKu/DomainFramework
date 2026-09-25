@@ -1,0 +1,5 @@
+"ExampleModule"
+"PauliusKup.DomainFramework.Example.ExampleModule.IModule"
+"PauliusKup.DomainFramework.Example.ExampleModule.Module"
+"PauliusKup.DomainFramework.Example.ExampleModule.IModuleRepository"
+"PauliusKup.DomainFramework.Example.ExampleModule.ModuleRepository"

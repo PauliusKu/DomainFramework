@@ -1,0 +1,23 @@
+{
+  "name": "DomainFramework",
+  "version": "0.0.1",
+  "oeversion": "12.8",
+  "popePackageName": "DomainFramework",
+  "popeDependencies": {},
+  "buildPath": [
+    {
+      "path": "src",
+      "type": "source"
+    },
+    {
+      "path": "pope_packages/PauliusKu",
+      "type": "source"
+    }
+  ],
+  "charset": "utf-8",
+  "dbConnections": [],
+  "procedures": [],
+  "profiles": [],
+  "graphicalMode": false,
+  "numThreads": 4
+}

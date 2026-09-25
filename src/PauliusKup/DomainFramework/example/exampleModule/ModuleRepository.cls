@@ -1,0 +1,3 @@
+CLASS PauliusKup.DomainFramework.Example.ExampleModule.ModuleRepository IMPLEMENTS PauliusKup.DomainFramework.Example.ExampleModule.IModuleRepository:
+
+END CLASS.

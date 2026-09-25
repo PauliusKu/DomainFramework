@@ -1,0 +1,2 @@
+INTERFACE PauliusKup.DomainFramework.Example.ExampleModule.IModuleRepository:
+END.
