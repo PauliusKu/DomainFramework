@@ -4,3 +4,12 @@ pope_packages/
 db
 .builder
 *.r
+gradlew
+gradlew.bat
+gradle/
+build.gradle.kts
+settings.gradle.kts
+pope
+pope.bat
+pope.lock
+pope-registries.properties
